@@ -43,7 +43,16 @@ https://join.slack.com/t/keriworld/shared_invite/zt-14326yxue-p7P~GEmAZ65luGSZvb
 - Discuss https://github.com/WebOfTrust/keripy/issues/104 (added by Michal)
     - Auth and SKWA
 
+### 2022-05-03
 
+- Recording
+
+- Reports
+  Keripy 
+  Keriml
+  Keep
+  KeriOX
+  Java
 
 ### 2022-04-19
 
@@ -68,6 +77,8 @@ https://join.slack.com/t/keriworld/shared_invite/zt-14326yxue-p7P~GEmAZ65luGSZvb
   
   Java
   
+  - Items
+
   
 
 - Items
